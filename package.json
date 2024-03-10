@@ -1,8 +1,8 @@
 {
   "name": "CodeCalc",
   "displayName": "CodeCalc",
-  "description": "A CODECALC VISUAL STUDIO CODE CALCULATOR",
-  "version": "1.0.0",
+  "description": "A CODECALC VISUAL STUDIO CODE CALCULATOR EXTENSION",
+  "version": "1.2.1",
   "engines": {
     "vscode": "^1.86.0"
   },
