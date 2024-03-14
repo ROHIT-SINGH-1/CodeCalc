@@ -26,7 +26,7 @@ THIS EXTENSION CONTRIBUTES THE FOLLOWING SETTINGS:
 
 ## RELEASE NOTES
 
-### v1.2.1
+### v1.2.2
 
 - RELEASE OF CALCULATOR EXTENSION.
 
@@ -52,9 +52,4 @@ YOU CAN AUTHOR YOUR README USING VISUAL STUDIO CODE. HERE ARE SOME USEFUL EDITOR
 
 ## FOR MORE INFORMATION
 
-[![Visual Studio Code's Markdown Support](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-MARKDOWN%20SUPPORT-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](http://code.visualstudio.com/docs/languages/markdown)
-
-[![Markdown Syntax Reference](https://img.shields.io/badge/MARKDOWN-SYNTAX%20REFERENCE-4CAF50?style=flat&logo=markdown&logoColor=white)](https://help.github.com/articles/markdown-basics/)
-
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-ROHIT%20SINGH-blue?style=flat-square&logo=github)](https://github.com/ROHIT-SINGH-1/CodeCalc.git)
+[![Visual Studio Code's Markdown Support](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-MARKDOWN%20SUPPORT-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](http://code.visualstudio.com/docs/languages/markdown) [![Markdown Syntax Reference](https://img.shields.io/badge/MARKDOWN-SYNTAX%20REFERENCE-4CAF50?style=flat&logo=markdown&logoColor=white)](https://help.github.com/articles/markdown-basics/) [![GitHub Profile](https://img.shields.io/badge/GitHub-ROHIT%20SINGH-blue?style=flat-square&logo=github)](https://github.com/ROHIT-SINGH-1/CodeCalc.git)

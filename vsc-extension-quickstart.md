@@ -49,4 +49,4 @@
 
 ## SCREENSHOT
 
-<img src="screenshort/Screenshot%202024-02-13%20151019.png" alt="Extension Screenshot" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+<img src="https://raw.githubusercontent.com/ROHIT-SINGH-1/CodeCalc/main/screenshort/screenshort.png" alt="Calculator in action" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px;">

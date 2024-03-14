@@ -2,7 +2,7 @@
   "name": "CodeCalc",
   "displayName": "CodeCalc",
   "description": "A CODECALC VISUAL STUDIO CODE CALCULATOR EXTENSION",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "engines": {
     "vscode": "^1.86.0"
   },
